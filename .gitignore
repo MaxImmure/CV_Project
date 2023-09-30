@@ -5,10 +5,15 @@ node_modules/
 .ipynb_checkpoints
 *.tsbuildinfo
 
-.ipynb_checkpoints/*
+.ipynb_checkpoints/
 
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
+
+### DataSet ###
+ZhangLabData.zip
+ZhangLabData/
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
